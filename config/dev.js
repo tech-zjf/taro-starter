@@ -1,9 +1,9 @@
 module.exports = {
   env: {
-    NODE_ENV: '"development"'
+    NODE_ENV: '"development"',
+    BASEURL: '"www.dev-zjf.com"',
   },
-  defineConstants: {
-  },
+  defineConstants: {},
   mini: {},
-  h5: {}
-}
+  h5: {},
+};
