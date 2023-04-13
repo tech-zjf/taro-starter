@@ -6,7 +6,7 @@ import './index.less'
 const IndexPage: React.FC = () => {
   return (
     <View className='index'>
-      <Text>Hello world! </Text>
+      <Text>Hello world </Text>
     </View>
   )
 }
